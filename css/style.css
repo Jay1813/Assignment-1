@@ -1,0 +1,41 @@
+head
+{
+    color: white;
+}
+
+a:link, a:visited
+{
+    background-color: #000000;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+  a:hover, a:active
+{
+    background-color: red;
+}
+
+.imag1, .imag2, .imag
+{
+    max-width: 100%;
+    height: auto;
+    border: 35px solid rgb(0, 0, 0);
+    display: block;
+    margin: auto;
+}
+
+p
+{
+    font-weight: 100;
+}
+
+body
+{
+    background-color:lightblue;
+    columns:black;
+    padding-left: 50px;
+    padding-right: 50px;
+}
